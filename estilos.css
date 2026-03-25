@@ -1,0 +1,54 @@
+<style>
+		p{color:blue;
+		font-size:25px;
+		font-family:arial;
+		text-align:justify; }
+		
+
+        img{ width: 400px;
+             height:400px; }
+
+
+         h1{background-color:blue;
+         	padding:10px;
+         	margin:10px 0;
+         	border-radius:5px; 
+             }
+
+         h2{background-color:blue;
+         	padding:10px;
+         	margin:10px 0;
+         	border-radius:5px; }
+
+        footer{background-color:black;
+               text-align:center;
+               padding: 20px;
+               position:relative;
+               width: 100%;
+
+                     }
+          .redesociales{ width:100px;
+                         height:100px;  }  
+           a {color:blue;
+		font-size:25px;
+		font-family:arial;
+		text-align:justify;
+		text-align: center;
+		  }                     
+      
+          h3{background-color:blue;
+         	padding:10px;
+         	margin:10px 0;
+         	border-radius:5px; }
+                   
+          h4{background-color:black;
+         	padding:10px;
+         	margin:10px 0;
+         	border-radius:5px; } 
+
+          h4:hover{background-color:black;
+         	padding:20px;
+         	margin:20px} 
+         
+
+	</style>
